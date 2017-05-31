@@ -1,0 +1,5 @@
+lib-cov
+coverage
+dist
+node_modules
+.editorconfig
